@@ -1,5 +1,12 @@
 # TEAM FINOVATE 
 
+---
+
+## 🔗 📂 Project Demo & Documentation  
+### 👉 **[Click Here to View Full PPT](https://drive.google.com/file/d/1ndOY-zFKwoaV23CgYzmwyQlpfH32_Q6-/view?usp=sharing)**  
+
+---
+
 🌾 DhanMitra – Empowering Rural India with AI-Driven Financial Literacy
 Bridging the 73% Financial Literacy Gap in Rural India through Multilingual, Offline AI Assistance.
 
